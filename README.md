@@ -1,2 +1,2 @@
-# PHP_SAMPLE_CODE_2
+# php_sample_code2
 PHPのサンプルコードその２【カレンダー】
